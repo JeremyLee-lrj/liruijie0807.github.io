@@ -29,7 +29,11 @@ categories: paper reading notes
 
 **下一步工作/不足之处**：
 
+Query the log directly without DRAM buffer, for example, structure the PM log as a persistent hash table for both buffering and durability, to reduce the complexity of the design.
+
 **数据集**:
+
+无特定数据集，使用Micro-benchmark和YCSB测试。
 
 
 
