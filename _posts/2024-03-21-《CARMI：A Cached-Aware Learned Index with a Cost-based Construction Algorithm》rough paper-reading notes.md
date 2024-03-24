@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-01-22 04:21:02 +0800
+title:  "《CARMI：A Cached-Aware Learned Index with a Cost-based Construction Algorithm》粗读笔记"
+date:   2024-03-21 04:21:02 +0800
 categories: jekyll update
 ---
+
+
 
 ##### 《CARMI：A Cached-Aware Learned Index with a Cost-based Construction Algorithm》粗读笔记
 
