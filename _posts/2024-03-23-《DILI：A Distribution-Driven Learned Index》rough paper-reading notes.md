@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《DILI：A Distribution-Driven Learned Index》论文粗读笔记"
-date:   2024-03-23 04:21:02 +0800
+date:   2024-03-24 14:21:02 +0800
 categories: paper reading notes
 ---
 
