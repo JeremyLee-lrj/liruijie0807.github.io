@@ -31,6 +31,12 @@ categories: paper reading notes
 
 **下一步/不足之处**：
 
+——使DILI适用于disk-resident data
+
+——在data update的时候支持并发
+
+——理论上，将lock-free和lock-crabbing方法像应用在B+Tree上一样使用在DILI
+
 **数据集**：
 
 - four real datasets:
