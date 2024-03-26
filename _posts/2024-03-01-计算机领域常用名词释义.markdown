@@ -30,3 +30,6 @@ categories: others
 
 没有预定义格式的数据，如文本，视频，音频等等。
 
+#### DRAM和SRAM:
+
+DRAM是dynamic random access memory，SRAM是static random access memory。DRAM需要每隔一段时间刷新充电一次以保持数据，SRAM不需要。因此SRAM速度更快，DRAM速度更慢。但是SRAM容量更小，DRAM的容量更大。因此SRAM通常用于高速缓存Cache，DRAM常用于内存。
