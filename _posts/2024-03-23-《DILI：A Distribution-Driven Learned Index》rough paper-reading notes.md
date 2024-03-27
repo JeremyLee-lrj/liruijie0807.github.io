@@ -7,8 +7,6 @@ categories: paper reading notes
 
 
 
-#### 《DILI：A Distribution-Driven Learned Index》论文粗读笔记
-
 **序号**：
 
 **文献背景**：VLDB2023

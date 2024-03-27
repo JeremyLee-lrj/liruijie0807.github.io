@@ -7,8 +7,6 @@ categories: jekyll update
 
 
 
-### 《CARMI：A Cached-Aware Learned Index with a Cost-based Construction Algorithm》粗读笔记
-
 **序号**：
 
 **文献背景**：VLDB2022

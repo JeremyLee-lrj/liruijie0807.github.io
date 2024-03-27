@@ -7,8 +7,6 @@ categories: jekyll update
 
 
 
-#### 《DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node》论文粗读笔记
-
 **序号**：
 
 **文献背景**：NeurIPS2019
