@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "《DPTree Differential Indexing for Persistent Memory》rough paper-reading notes"
+title:  "《DPTree Differential Indexing for Persistent Memory》论文粗读笔记"
 date:   2024-03-20 14:21:02 +0800
 categories: paper reading notes
 ---
